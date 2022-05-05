@@ -1,6 +1,6 @@
 # Bankline API desenvolvida na DEV week DIO/Santander.
 
-Ferramentas/linguagens utilizadas: JAVA, Angular, Springboot, PostgreSQL
+Ferramentas/linguagens utilizadas: JAVA, Angular, Spring boot, PostgreSQL
 
 #### Link para consulta: https://induzt-dio-bankline-api.herokuapp.com/swagger-ui/index.html
 
